@@ -1,0 +1,5 @@
+#Login to HRM site by entering Admin <Username> and <Password>
+* Open Chrome Browser
+* Goto the login page of HRM Demo URL "https://opensource-demo.orangehrmlive.com/"
+* Enter username <Username> and password <Password>
+* Click on Login button
